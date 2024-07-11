@@ -25,7 +25,7 @@
         <java.faker.version>1.0.2</java.faker.version>
         <jakarta.mail.version>2.0.1</jakarta.mail.version>
         <redsix.pdfcompare.version>1.2.2</redsix.pdfcompare.version>
-        <project.lamdok.version>1.18.32</project.lamdok.version>
+        <project.lamdok.version>1.18.34</project.lamdok.version>
         <jetbrains.annotations.version>24.1.0</jetbrains.annotations.version>
         <suite.xml>TestNG.xml</suite.xml>
     </properties>
