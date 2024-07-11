@@ -21,7 +21,7 @@
         <apache.common.version>2.16.1</apache.common.version>
         <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
         <slf4j.version>2.0.13</slf4j.version>
-        <rest.assured.version>5.4.0</rest.assured.version>
+        <rest.assured.version>5.5.0</rest.assured.version>
         <java.faker.version>1.0.2</java.faker.version>
         <jakarta.mail.version>2.0.1</jakarta.mail.version>
         <redsix.pdfcompare.version>1.2.2</redsix.pdfcompare.version>
