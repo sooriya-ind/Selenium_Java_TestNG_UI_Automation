@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Test Suite" data-provider-thread-count="8" parallel="classes" thread-count="10">
+    <listeners>
+        <listener class-name="listeners.Transformer"/>
+    </listeners>
+    <test verbose="1" parallel="methods" name="Sample Test" thread-count="5">
+        <classes>
+            <class name="testCase.GoogleTest"/>
+        </classes>
+    </test>
+</suite>
